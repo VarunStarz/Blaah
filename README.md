@@ -1,6 +1,6 @@
 # blaah
 
-A new Flutter application.
+Messaging App with Flutter
 
 ## Getting Started
 
